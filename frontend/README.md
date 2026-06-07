@@ -1,4 +1,4 @@
-# Recarga Celular Bancaria
+## Recarga Celular Bancaria
 
 Esta es una aplicación full-stack para realizar recargas de celular simulando el flujo de una aplicación bancaria
 
