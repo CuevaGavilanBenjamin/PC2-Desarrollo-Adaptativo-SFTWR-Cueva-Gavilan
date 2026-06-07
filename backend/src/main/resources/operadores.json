@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "nombre": "Claro",
+    "logo": "🟡"
+  },
+  {
+    "id": 2,
+    "nombre": "Movistar",
+    "logo": "🔴"
+  },
+  {
+    "id": 3,
+    "nombre": "Entel",
+    "logo": "🔵"
+  },
+  {
+    "id": 4,
+    "nombre": "Bitel",
+    "logo": "⚫"
+  }
+]
